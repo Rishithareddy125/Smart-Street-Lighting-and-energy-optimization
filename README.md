@@ -1,7 +1,6 @@
 # Smart-Street-Lighting-and-energy-optimization
-Aim:
- To Design an IoT-enabled street lighting system that automatically adjusts brightness based on ambience light and motion detection. The system should display operational status and power consumption data locally using display components, while also transmitting energy usage statistics to a cloud platform for optimization analysis 
-Description:
+Description: 
+
 The Smart Street Lighting and Energy Optimization System is an Internet of Things (IoT) based solution designed to improve the efficiency and management of street lighting infrastructure. Traditional street lighting systems consume a large amount of electricity because they remain fully illuminated throughout the night regardless of environmental conditions or traffic movement. This leads to unnecessary energy consumption and increased operational costs.
 
 This project proposes a smart lighting system using an ESP32 microcontroller that automatically adjusts street light brightness based on ambient light levels and motion detection. The system uses an MH series light sensor to detect environmental lighting conditions and determine whether it is day or night. When sufficient daylight is detected, the street lights remain turned off to conserve energy.
